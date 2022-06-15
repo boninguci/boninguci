@@ -14,7 +14,7 @@
 <li>
  <b>Name:</b> <a href='https://www.facebook.com/giabaobao2807' target=_blank>Gia Bảo (boninguci) </a></li>
 <li>
-<b> Main account:</b> <a href='[https://www.facebook.com/giabaobao2807](https://github.com/giabao2807)' target=_blank>giabao2807 </a>
+<b> Main account:</b> <a href='https://www.facebook.com/giabaobao2807' target=_blank> giabao2807 </a>
 </li>
 <li>
 <b>Loves:</b> Cat, sunset, and u 
