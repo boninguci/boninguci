@@ -26,7 +26,7 @@
 <b>Hobbys:</b> Web Development, Book
 </li>
 <li>
-<b>Working at:</b> Intern web Paradox VietName
+<b>Working at:</b> FPT Software
 </li>
 <br><br><br>
 </div>
